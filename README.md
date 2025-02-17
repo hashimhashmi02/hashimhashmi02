@@ -15,7 +15,6 @@ Hello World!, I'm Hashim, a Indian Web Developer 👋🏼:<br>🔭 I’m current
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hashimhashmi02&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
