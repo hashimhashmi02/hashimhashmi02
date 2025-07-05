@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Hashim, I'm a Web Developer from India 👋🏼:<br>🔭 I’m currently working on a freelance project<br>🌱 I’m currently learning React and Next.js<br>💬 Ask me about Code!<br><br>
+Hello World!, I'm Hashim, I'm a Web Developer from India 👋🏼:<br>🔭 I’m currently working on a freelance project<br>🌱 I’m currently learning about Web3.js<br>💬 Ask me about Code!<br><br>
 
 
 ## 🌐 Socials:
