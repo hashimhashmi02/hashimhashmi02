@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Freelance Projhect<br>👯 I’m looking to collaborate on Web3 stuff<br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning Solana and Rusr<br>💬 Ask me about Code&Football<br>
+🔭 I’m currently working on a Freelance Project<br>👯 I’m looking to collaborate on Web3 stuff<br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning Solana and Rusr<br>💬 Ask me about Code&Football<br>
 
 
 ## 🌐 Socials:
