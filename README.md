@@ -54,6 +54,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical" alt="hashimhashmi02" />
 </p>
 
+📈 My Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
+</p>
+
 🔗 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim-hashmi-b0b01220b" height="30" width="40" /></a>
