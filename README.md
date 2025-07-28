@@ -56,7 +56,7 @@
 
 📈 My Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
 </p>
 
 🔗 Connect with me:
