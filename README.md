@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashmi02" />
 </p>
 
-I'm currently working on a freelance project, learning Rust & Solana, and looking for opportunities to contribute to open source. Feel free to ask me about anything code-related!
+I'm currently working on a freelance project, learning Rust & Solana, and looking for opportunities to contribute to open source. Feel free to ask me about anything code-related!!
 
 📫 You can reach me at: hashimhashmi86@gmail.com
 
