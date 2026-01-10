@@ -4,14 +4,12 @@
 <h3 align="center">A passionate Full-Stack Developer & Web3 Enthusiast from India,Delhi</h3>
 </div>
 
-
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=hashimhashmi02&theme=radical&row=1&column=7" alt="hashimhashmi02" />
 </a>
 </p
   
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashmi02" />
 </p>
@@ -48,7 +46,6 @@ I'm currently working on a freelance project, learning Rust & Solana, and lookin
 <p align="center">
 <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
 </p>
-
 
 
 🔗 Connect with me:
