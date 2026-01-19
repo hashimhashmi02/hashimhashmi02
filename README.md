@@ -4,25 +4,17 @@
 <h3 align="center">A passionate Full-Stack Developer & Web3 Enthusiast from India, Delhi</h3>
 </div>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=hashimhashmi02&theme=radical&row=1&column=7" alt="hashimhashmi02" />
-</a>
-</p>
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashmi02" />
 <img src="https://img.shields.io/github/followers/hashimhashmi02?label=Followers&style=social" alt="followers" />
 </p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
----
+
 <h2 align="center">🧑‍💻 About Me</h2>
 - 🔭 I'm currently working on a **freelance project**
 - 🌱 I'm currently learning **Rust & Solana**
 - 👯 I'm looking to contribute to **open source projects**
 - 💬 Ask me about anything **code-related**!
 - 📫 How to reach me: **hashimhashmi86@gmail.com**
----
+
 <h2 align="center">🚀 Languages and Tools</h2>
 <p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -38,7 +30,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
----
+
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hashimhashmi02&show_icons=true&locale=en&theme=radical" alt="hashimhashmi02" />
@@ -49,19 +41,19 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical" alt="hashimhashmi02" />
 </p>
----
+
 <h2 align="center">📈 My Contribution Graph</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
 </p>
----
+
 <h2 align="center">🔗 Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim-hashmi-b0b01220b" height="30" width="40" /></a>
 <a href="https://x.com/Swakji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Swakji" height="30" width="40" /></a>
 <a href="https://instagram.com/hashimhashmi86/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashimhashmi86" height="30" width="40" /></a>
 </p>
----
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
