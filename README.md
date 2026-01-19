@@ -9,10 +9,10 @@
 </p>
 
 <h2 align="center">🧑‍💻 About Me</h2>
-- 🔭 I'm currently working on a **freelance project**
-- 🌱 I'm currently learning **Rust & Solana**
-- 👯 I'm looking to contribute to **open source projects**
-- 💬 Ask me about anything **code-related**!
+- 🔭 I'm currently working on a freelance project
+- 🌱 I'm currently learning Rust & Solana
+- 👯 I'm looking to contribute to open source projects
+- 💬 Ask me about anything code-related!
 - 📫 How to reach me: **hashimhashmi86@gmail.com**
 
 <h2 align="center">🚀 Languages and Tools</h2>
