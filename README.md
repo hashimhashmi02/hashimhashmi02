@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/github/followers/hashimhashmi02?label=Followers&style=social" alt="followers" />
 </p>
 
+
 <h2 align="center">🧑‍💻 About Me</h2>
 - 🔭 I'm currently working on a freelance project
 - 🌱 I'm currently learning Rust & Solana
