@@ -43,12 +43,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical" alt="hashimhashmi02" />
 </p>
 
-<h2 align="center">📈 My Contribution Graph</h2>
+<h2 align="center">📈 My Contribution graph</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
 </p>
 
-<h2 align="center">🔗 Connect with Me</h2>
+<h2 align="center">🔗 Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim-hashmi-b0b01220b" height="30" width="40" /></a>
 <a href="https://x.com/Swakji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Swakji" height="30" width="40" /></a>
