@@ -8,14 +8,6 @@
 <img src="https://img.shields.io/github/followers/hashimhashmi02?label=Followers&style=social" alt="followers" />
 </p>
 
-
-<h2 align="center">🧑‍💻 About Me </h2>
-- 🔭 I'm currently working on a freelance project
-- 🌱 I'm currently learning Rust & Solana
-- 👯 I'm looking to contribute to open source projects
-- 💬 Ask me about anything code-related!
-- 📫 How to reach me: **hashimhashmi86@gmail.com**
-
 <h2 align="center">Languages & Tools </h2>
 <p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
