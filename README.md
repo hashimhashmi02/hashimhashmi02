@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <h1 align="center">Hi there, I'm Hashim Hashmi👋</h1>
-<h3 align="center">A passionate full-Stack Developer & Web3 enthusiast from India, Delhi</h3>
+<h3 align="center">A Passionate Full-Stack Developer & Web3 Enthusiast From India, Delhi</h3>
 </div>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashmi02" />
@@ -35,12 +35,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical" alt="hashimhashmi02" />
 </p>
 
-<h2 align="center">📈 My Contribution graph </h2>
+<h2 align="center">📈 My Contribution Graph </h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
 </p>
 
-<h2 align="center">🔗 connect with me </h2>
+<h2 align="center">🔗 Connect With Me </h2>
 <p align="center">
 <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim-hashmi-b0b01220b" height="30" width="40" /></a>
 <a href="https://x.com/Swakji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Swakji" height="30" width="40" /></a>
