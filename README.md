@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1 align="center">Hi there, I'm hashim hashmi👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Web3 Enthusiast From india, delhi</h3>
+<h1 align="center">Hi there, I'm Hashim Hashmi👋</h1>
+<h3 align="center">A Passionate Full-Stack Developer & Web3 Enthusiast From India, Delhi</h3>
 </div>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=0e75b6&style=flat" alt="hashimhashmi02" />
@@ -24,7 +24,7 @@
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">📊 My gitHub Stats </h3>
+<h3 align="center">📊 My GitHub Stats </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hashimhashmi02&show_icons=true&locale=en&theme=radical" alt="hashimhashmi02" />
 </p>
