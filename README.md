@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/followers/hashimhashmi02?label=Followers&style=social" alt="followers" />
 </p>
 
-<h2 align="center">Languages & Tools </h2>
+<h2 align="center">Languages & tools </h2>
 <p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -24,7 +24,7 @@
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">📊 My GitHub Stats </h3>
+<h3 align="center">📊 My GitHub stats </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hashimhashmi02&show_icons=true&locale=en&theme=radical" alt="hashimhashmi02" />
 </p>
@@ -35,12 +35,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical" alt="hashimhashmi02" />
 </p>
 
-<h2 align="center">📈 My Contribution Graph </h2>
+<h2 align="center">📈 My Contribution graph </h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimhashmi02&theme=react-dark&hide_border=true&area=true" alt="contribution graph"/>
 </p>
 
-<h2 align="center">🔗 Connect With Me </h2>
+<h2 align="center">🔗 Connect With me </h2>
 <p align="center">
 <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim-hashmi-b0b01220b" height="30" width="40" /></a>
 <a href="https://x.com/Swakji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Swakji" height="30" width="40" /></a>
