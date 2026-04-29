@@ -11,7 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk@master
         with:
@@ -25,4 +25,4 @@ jobs:
         with:
           add: '["dist/github-contribution-snake.svg", "dist/github-contribution-snake-dark.svg"]'
           push: true
-          branch: github-contribution-snake
+          new_branch: github-contribution-snake
