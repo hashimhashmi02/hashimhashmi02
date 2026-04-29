@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@master
+        with:
+          github_user_name: hashimhashmi02
+          outputs: |
+            dist/github-contribution-snake.svg
+            dist/github-contribution-snake-dark.svg?palette=github-dark
+
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '["dist/github-contribution-snake.svg", "dist/github-contribution-snake-dark.svg"]'
+          push: true
+          branch: github-contribution-snake
