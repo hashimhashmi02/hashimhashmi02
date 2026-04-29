@@ -16,13 +16,11 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: hashimhashmi02
-          outputs: |
-            dist/github-contribution-snake.svg
-            dist/github-contribution-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-snake.svg
 
       - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: '["dist/github-contribution-snake.svg", "dist/github-contribution-snake-dark.svg"]'
+          add: '["dist/github-contribution-snake.svg"]'
           push: true
           new_branch: github-contribution-snake
