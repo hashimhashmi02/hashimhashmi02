@@ -151,7 +151,7 @@ const hashim = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hashimhashmi02/hashimhashmi02/master/dist/github-contribution-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/hashimhashmi02/hashimhashmi02/github-contribution-snake/dist/github-contribution-snake.svg" alt="Snake animation"/>
 </div>
 
 ---
