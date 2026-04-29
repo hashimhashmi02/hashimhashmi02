@@ -9,7 +9,7 @@
   <!-- Typing Effect Title -->
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=6366f1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hashim+Hashmi+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web3+Enthusiast;Building+the+Future+of+Web" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=6366f1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hashim+Hashmi+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web3+Enthusiast;Building+the+Future+of+Web" alt="Typing SVG" />
     </a>
   </h1>
 
@@ -148,27 +148,15 @@ const hashim = {
 
 ---
 
-## 🐍 Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hashimhashmi02/hashimhashmi02/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 💻 Coding Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hashimhashmi02/hashimhashmi02/main/assets/github-user-contribution.svg" alt="Coding Activity"/>
-</div>
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
 
-  "Let's build something amazing together! Feel free to reach out."
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Feel+free+to+reach+out+%F0%9F%9A%80" alt="Contact Message"/>
+    </a>
+  </p>
 
   <p align="center">
     <a href="mailto:your.email@example.com">
@@ -192,7 +180,9 @@ const hashim = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6366f1&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Hashim+Hashmi" alt="Footer"/>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366f1&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Hashim+Hashmi" alt="Footer"/>
+    </a>
   </p>
 
 </div>
