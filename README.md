@@ -1,30 +1,30 @@
 <div align="center">
 
-  <!-- Animated Wave Header -->
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hashim%20Hashmi&fontSize=60&fontAlign=50&fontColor=fff&animation=twinkling" alt="header"/>
 
-  <!-- Profile GIF -->
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" style="border-radius: 50%; border: 3px solid #6366f1;"/>
 
-  <!-- Typing Effect Title -->
+
   <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=6366f1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hashim+Hashmi+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web3+Enthusiast;Building+the+Future+of+Web" alt="Typing SVG" />
     </a>
   </h1>
 
-  <!-- Location Badge -->
+
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-red?style=for-the-badge&logo=google-maps" alt="Location"/>
   </p>
 
-  <!-- Profile Views & Followers -->
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=6366f1&style=for-the-badge" alt="hashimhashmi02" />
     <img src="https://img.shields.io/github/followers/hashimhashmi02?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
   </p>
 
-  <!-- Social Links -->
+
   <p align="center">
     <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -119,13 +119,12 @@ const hashim = {
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=hashimhashmi02&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" alt="hashimhashmi02" />
 
-  <!-- Top Languages -->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimhashmi02&layout=compact&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff" alt="hashimhashmi02" />
 
-  <!-- Streak Stats -->
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashmi02&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="hashimhashmi02" />
 
 </div>
