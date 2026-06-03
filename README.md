@@ -27,7 +27,7 @@
 ```javascript
 const hashim = {
   pronouns: "He/Him",
-  role: "Full-Stack Developer & Web3 Enthusiast",
+  role: "Full-Stack & Web3  Developer",
   location: "Delhi, India",
   languages: ["TypeScript", "JavaScript", "Rust", "Java", "C++"],
   frameworks: ["React", "Next.js", "Node.js", "Prisma"],
