@@ -18,25 +18,6 @@
     <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-red?style=for-the-badge&logo=google-maps" alt="Location"/>
   </p>
 
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hashimhashmi02&label=Profile%20views&color=6366f1&style=for-the-badge" alt="hashimhashmi02" />
-    <img src="https://img.shields.io/github/followers/hashimhashmi02?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
-  </p>
-
-
-  <p align="center">
-    <a href="https://linkedin.com/in/hashim-hashmi-b0b01220b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/Swakji" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-    </a>
-    <a href="https://instagram.com/hashimhashmi86/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
-
 </div>
 
 ---
@@ -58,8 +39,6 @@ const hashim = {
 ```
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 📈 Contribution Graph
 
