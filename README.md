@@ -14,10 +14,6 @@
   </h1>
 
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-red?style=for-the-badge&logo=google-maps" alt="Location"/>
-  </p>
-
 </div>
 
 ## 🚀 About Me
