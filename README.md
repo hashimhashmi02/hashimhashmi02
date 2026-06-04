@@ -27,9 +27,9 @@ const hashim = {
   pronouns: "He/Him",
   role: "Full-Stack & Web3  Developer",
   location: "Delhi, India",
-  languages: ["TypeScript", "JavaScript", "Rust", "Java", "C++"],
+  languages: ["TypeScript", "JavaScript", "Rust", "Java",],
   frameworks: ["React", "Next.js", "Node.js", "Prisma"],
-  databases: ["MongoDB", "PostgreSQL"],
+  databases: ["MongoDB", "PostgreSQL","Convex"],
   cloud: ["AWS"],
   currentFocus: "Building scalable web applications & exploring Web3",
   funFact: "I turn coffee into code ☕"
